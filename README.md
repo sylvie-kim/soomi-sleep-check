@@ -2,6 +2,8 @@
 
 **A free, 5-minute sleep health self-check on your phone.** No sign-up, no server, nothing saved.
 
+**Try it:** [sleep-check.soomihealth.care](https://sleep-check.soomihealth.care) (in Korean, best on a phone)
+
 Built at **[SOOMi Health](https://soomihealth.care)** by a non-developer founder working with AI coding agents. This repository is an overview; the source code is private.
 
 ![Welcome, a question, the goals screen, and the result summary](screens.webp)
