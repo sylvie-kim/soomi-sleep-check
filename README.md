@@ -51,7 +51,7 @@ You:    Send it to your own KakaoTalk or mail app.
 | Part | Questions | What comes back |
 |---|---|---|
 | Sleep pattern | 4 | Time to fall asleep, night awakenings, how mornings feel |
-| Daytime sleepiness | 9 | A daytime sleepiness score from everyday situations (based on the Epworth Sleepiness Scale) |
+| Daytime sleepiness | 9 | A daytime sleepiness score from 8 everyday situations (based on the Epworth Sleepiness Scale), plus one question on daytime tiredness that counts toward the breathing signals |
 | Breathing during sleep and health | 7 | A count of sleep apnea risk signals (based on STOP-Bang) |
 | Habits and goals | 2 | Sleep habits you already keep, and what you hope changes |
 
